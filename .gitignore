@@ -2,3 +2,6 @@ venv
 tomatod
 detectron2_repo
 output
+datasets/*
+datasets
+model.h5
