@@ -45,7 +45,7 @@ Looking at the previous attempt, anything more than 13 epochs is where the model
 
 To identify which classes are being mislabelled, we generate confusion matrix & classification report to see where the model is mixing classes up.
 
-From just a quick scan, we can see that Water Pump, Vacuum Brake Booster and Gas Cap are all being mislabeled. This makes sense as they all, at least to the model, would look similar.
+From just a quick scan, we can see that Water Pump, Vacuum Brake Booster and Gas Cap are all being mislabelled. This makes sense as they all, at least to the model, would look similar.
 
 ![[1.jpg]]
 ![[5.jpg]]
