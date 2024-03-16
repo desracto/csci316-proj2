@@ -7,3 +7,5 @@ datasets
 model.h5
 top_10_model.h5
 hp_dropout_model.h5
+hp_tuning
+hp_tuning/*

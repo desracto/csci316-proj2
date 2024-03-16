@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4bc716a69894e02",
+            "id": "1097ea08233e8053",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4bc716a69894e02",
+  "active": "1097ea08233e8053",
   "lastOpenFiles": [
-    "Pasted image 20240315205644.png",
-    "Pasted image 20240315203703.png",
-    "Notes.md"
+    "images/Pasted image 20240315203703.png",
+    "directory.md",
+    "images/010 3.jpg",
+    "images/010 2.jpg",
+    "images/010 1.jpg",
+    "images/5.jpg",
+    "images/4.jpg",
+    "images/1.jpg",
+    "images/034.jpg",
+    "images/034 1.jpg",
+    "images/019.jpg",
+    "images/014.jpg",
+    "Notes.md",
+    "images",
+    "directory"
   ]
 }

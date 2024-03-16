@@ -1,0 +1,56 @@
+                      precision    recall  f1-score   support
+
+      AIR COMPRESSOR       0.61      1.00      0.76        14
+          ALTERNATOR       0.82      0.90      0.86        10
+             BATTERY       1.00      0.87      0.93        15
+       BRAKE CALIPER       0.64      0.64      0.64        11
+           BRAKE PAD       1.00      0.78      0.88        18
+         BRAKE ROTOR       0.83      0.83      0.83        12
+            CAMSHAFT       0.83      0.71      0.77        14
+          CARBERATOR       0.67      0.83      0.74        12
+        CLUTCH PLATE       1.00      1.00      1.00        18
+         COIL SPRING       0.86      1.00      0.92        12
+          CRANKSHAFT       0.83      0.77      0.80        13
+       CYLINDER HEAD       0.94      0.79      0.86        19
+         DISTRIBUTOR       0.27      0.50      0.35        18
+        ENGINE BLOCK       0.73      0.73      0.73        15
+        ENGINE VALVE       0.94      0.94      0.94        16
+       FUEL INJECTOR       0.67      0.38      0.48        16
+            FUSE BOX       0.61      1.00      0.76        14
+             GAS CAP       0.71      0.38      0.50        13
+          HEADLIGHTS       1.00      0.67      0.80        12
+           IDLER ARM       0.67      0.75      0.71        16
+       IGNITION COIL       1.00      0.20      0.33        15
+  INSTRUMENT CLUSTER       1.00      1.00      1.00        13
+         LEAF SPRING       0.71      0.89      0.79        19
+   LOWER CONTROL ARM       0.77      0.91      0.83        11
+             MUFFLER       1.00      0.39      0.56        18
+          OIL FILTER       0.88      1.00      0.94        15
+             OIL PAN       0.82      0.60      0.69        15
+ OIL PRESSURE SENSOR       0.78      0.39      0.52        18
+       OVERFLOW TANK       0.91      0.40      0.56        25
+       OXYGEN SENSOR       0.53      0.62      0.57        16
+              PISTON       0.47      1.00      0.64        16
+      PRESSURE PLATE       1.00      1.00      1.00        17
+            RADIATOR       1.00      1.00      1.00        13
+        RADIATOR FAN       0.94      0.94      0.94        17
+       RADIATOR HOSE       0.76      0.93      0.84        14
+               RADIO       1.00      0.86      0.92        14
+                 RIM       1.00      0.82      0.90        17
+          SHIFT KNOB       0.73      0.73      0.73        11
+         SIDE MIRROR       0.71      0.79      0.75        19
+          SPARK PLUG       0.56      0.69      0.62        13
+             SPOILER       0.62      0.81      0.70        16
+             STARTER       0.29      0.78      0.42         9
+          TAILLIGHTS       1.00      0.50      0.67        12
+          THERMOSTAT       0.69      0.82      0.75        11
+    TORQUE CONVERTER       0.89      0.94      0.91        17
+        TRANSMISSION       0.94      0.79      0.86        19
+VACUUM BRAKE BOOSTER       0.83      0.56      0.67        18
+        VALVE LIFTER       0.87      0.87      0.87        15
+          WATER PUMP       0.73      0.69      0.71        16
+    WINDOW REGULATOR       1.00      0.85      0.92        13
+
+            accuracy                           0.76       750
+           macro avg       0.80      0.76      0.76       750
+        weighted avg       0.81      0.76      0.76       750
